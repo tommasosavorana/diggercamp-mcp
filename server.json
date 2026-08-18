@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "com.diggercamp/music-similarity",
   "title": "diggercamp",
-  "description": "Find independent music by how it sounds — similar tracks and playlists from a track link.",
-  "version": "1.0.1",
+  "description": "Find independent music by how it sounds: similar tracks and playlists from a track link.",
+  "version": "1.0.2",
   "websiteUrl": "https://diggercamp.com",
   "repository": {
     "url": "https://github.com/tommasosavorana/diggercamp-mcp",
